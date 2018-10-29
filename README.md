@@ -6,11 +6,13 @@ Given a sorted array, two integers k and x, find the k closest elements to x in 
 # Example 1:
 
 Input: [1,2,3,4,5], k=4, x=3
+
 Output: [1,2,3,4]
 
 # Example 2:
 
 Input: [1,2,3,4,5], k=4, x=-1
+
 Output: [1,2,3,4]
 
 # Note:
