@@ -7,10 +7,12 @@ Given a sorted array, two integers k and x, find the k closest elements to x in 
 
 Input: [1,2,3,4,5], k=4, x=3
 Output: [1,2,3,4]
-Example 2:
+
+# Example 2:
 
 Input: [1,2,3,4,5], k=4, x=-1
 Output: [1,2,3,4]
+
 # Note:
 
 The value k is positive and will always be smaller than the length of the sorted array.
